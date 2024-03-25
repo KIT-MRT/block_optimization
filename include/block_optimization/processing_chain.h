@@ -9,7 +9,7 @@
 #include <utility>
 #include <vector>
 
-#include <eigen3/Eigen/Core>
+#include <Eigen/Core>
 
 namespace block_optimization {
 

@@ -2,8 +2,8 @@
 
 //#include <ceres/rotation.h>
 
-#include <eigen3/Eigen/Core>
-#include <eigen3/Eigen/Geometry>
+#include <Eigen/Core>
+#include <Eigen/Geometry>
 #include "../block.h"
 
 
